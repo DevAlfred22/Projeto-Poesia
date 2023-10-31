@@ -107,7 +107,7 @@ section#img01{
 }
 
 section#img02{
-    background-image: url(../EX22/background02.png);
+    background-image: url(background02.png);
     background-position: right;
     background-attachment: fixed;
     box-shadow: inset 6px 6px 14px 0px black;
